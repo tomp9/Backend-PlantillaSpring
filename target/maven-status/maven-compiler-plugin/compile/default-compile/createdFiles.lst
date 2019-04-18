@@ -1,0 +1,9 @@
+com\api\dao\MovieDAOImpl.class
+com\api\services\MovieServiceImpl.class
+com\api\config\WebConfig.class
+com\api\model\Movie.class
+com\api\config\MyWebAppInitializer.class
+com\api\config\AppConfig.class
+com\api\dao\MovieDAO.class
+com\api\services\MovieService.class
+com\api\controller\MovieController.class
